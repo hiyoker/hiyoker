@@ -1,16 +1,20 @@
-### Hi there 👋
+### 本命项目
 
-<!--
-**hiyoker/hiyoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 一:项目目的
 
-Here are some ideas to get you started:
+​	本项目是为了梳理我之前学到的后端知识，拓展前端能力
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 二:项目日志
+
+##### 1. 创建项目框架
+
+~~完成vue项目的初始化~~ 
+
+~~完成vue项目的一个测试~~
+
+完成后端项目的搭建
+
+##### 2.连接git仓库
+
+
+
